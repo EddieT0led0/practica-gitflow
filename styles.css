@@ -44,3 +44,8 @@ footer a{
 footer a:hover{
     color: yellow;
 }
+.titulo{
+    color: yellow;
+    text-align: center;
+    font-size: 64pxgit;
+}
