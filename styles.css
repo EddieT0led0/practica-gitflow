@@ -28,3 +28,19 @@ nav a:hover{
     width: 100%;
     transition: transform 1s; /* Duración de la animación de cambio */
 }
+.logo{
+    width: 80px;
+    height: 180px;
+}
+footer{
+   
+    text-align: center;
+    justify-content: center;
+}
+footer a{
+    text-decoration: none;
+    margin: 20px;
+}
+footer a:hover{
+    color: yellow;
+}
